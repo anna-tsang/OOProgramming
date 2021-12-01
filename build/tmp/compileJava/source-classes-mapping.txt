@@ -2,5 +2,9 @@ com/afs/oopractice/Car.java
  com.afs.oopractice.Car
 com/afs/oopractice/Truck.java
  com.afs.oopractice.Truck
+com/afs/oopractice/Vehicle.java
+ com.afs.oopractice.Vehicle
+com/afs/oopractice/Driver.java
+ com.afs.oopractice.Driver
 com/afs/oopractice/HelloWorld.java
  com.afs.oopractice.HelloWorld

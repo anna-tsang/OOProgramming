@@ -7,5 +7,10 @@ public class HelloWorld {
 
         Truck truck = new Truck("Truck", 10);
         truck.speedup();
+
+        Driver carDriver = new Driver(new Car("Car", 30));
+        carDriver.speedup();
+        Driver truckDriver = new Driver(new Car("Truck", 10));
+        truckDriver.speedup();
     }
 }
