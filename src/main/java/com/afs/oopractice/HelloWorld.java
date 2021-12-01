@@ -12,5 +12,7 @@ public class HelloWorld {
         carDriver.speedup();
         Driver truckDriver = new Driver(new Car("Truck", 10));
         truckDriver.speedup();
+
+        //GasolineEngine gasolineEngine = new GasolineEngine();
     }
 }
